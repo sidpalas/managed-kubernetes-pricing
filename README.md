@@ -13,5 +13,8 @@ I pulled the prices from each cloud providers pricing page, but if I made a mist
 Binder Link: https://mybinder.org/v2/gh/sidpalas/managed-kubernetes-pricing/master?filepath=%2Fmanaged-kubernetes-price-exploration.ipynb
 
 ![](images/interactive-plot.png)
+Comparison from March 2020
+![](images/interactive-plot-2.png)
+Comparison from October 2021
 *The End Result...*
 
